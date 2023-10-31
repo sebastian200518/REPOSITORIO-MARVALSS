@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="ESTILO.css">
+    <style>
+      html{
+        scroll-behavior: smooth;
+      }
+    </style>
+</head>
+
+    <title>MARVALSS_SHOP</title>
+</head>
+<body>
+  <section>
+   <article>
+      <ul class="NAVEGADOR">
+         <li id="Titulo_prin" class="LI1"><a  class="INICIO1" href="#INICIO">INICIO</a></li>
+         <li class="LI1"><a href="#PROMOCIONES ">PROMOCIONES</a></li>
+         <li class="LI1"><a href="#CATEGORIAS">CATEGORIAS</a></li>
+         <li class="LI1"><a href="#PEDIDOS">PEDIDOS</a></li>
+         <li class="LI1"><a href="#OMENTARIOS">TU OPINION</a></li>
+         <li class="LI1"><a href="#CARRITO">MI CARRITO</a></li>
+         <li class="LI1"><a href="#AYUDA">AYUDA</a></li>
+      </ul>
+   </article>
+   <br>
+   <article class="ENCABEZADO1">
+      <h1>¡BIENVENIDO A MARVALSS!</h1>
+      
+      <P class="PR1">Querido cliente, Nos emociona darte la más cordial bienvenida a nuestra tienda virtual. En Marvalss, no solo encontrarás productos de alta calidad, sino
+      también una experiencia de compra única y personalizada. Nuestro compromiso es brindarte la mejor selección de productos, cuidadosamente elegidos para satisfacer tus
+      necesidades y deseos. Desde moda hasta tecnología, estamos seguros de que descubrirás algo que te encante, se de nuestra familia Mavalss.</P>
+     
+   </article><br>
+   <img class="POR" src="IMAGENES/LOGOFT.png" width="967" >
+   <hr>
+
+   <article class="ENCABEZADO2">
+      <h2>¿QUE ES MARVALSS?</h2>
+      <p><pre>      <strong>Bienvenido a Marvalss: Tu Destino para Productos Multimarca de Calidad</strong>
+      En Marvalss, nos enorgullecemos de ofrecerte una experiencia de compra excepcional, donde la calidad y la variedad son nuestras máximas prioridades. Somos una 
+      plataforma de venta en línea que se especializa en una amplia gama de productos multimarca, abarcando desde productos de estética y tecnología hasta muebles y 
+      accesorios para el hogar.
+        
+      <strong>Nuestra Diversa Selección de Productos Incluye:</strong>
+        
+      <strong>Estética y Belleza:</strong> Desde productos de cuidado personal hasta herramientas de belleza de las marcas más confiables, te brindamos una amplia gama de opciones para
+      realzar tu belleza y bienestar.
+        
+      <strong>Tecnología Avanzada:</strong> Explora nuestra selección de dispositivos tecnológicos de última generación, desde gadgets innovadores hasta accesorios imprescindibles para
+      mantenerte conectado y actualizado en un mundo digital en constante cambio.
+        
+      <strong>Mobiliario Funcional:</strong> Nuestro catálogo incluye una variedad de muebles que combinan estilo y funcionalidad para transformar tu espacio en un ambiente acogedor y 
+      organizado. Desde sillas ergonómicas hasta alacenas y repisas versátiles, tenemos todo lo que necesitas para hacer de tu hogar un lugar acogedor y funcional.
+        
+      <strong>Productos de Barbería y Estilismo:</strong> Los profesionales y aficionados por igual encontrarán una amplia gama de herramientas de calidad para el cuidado del cabello y la
+      barba. Nuestros productos están diseñados para proporcionar resultados excepcionales y duraderos.
+        
+      En Marvalss, entendemos que cada cliente tiene necesidades únicas, por lo que nos esforzamos por ofrecerte una selección que refleje esa diversidad. Ya sea que estés
+      buscando productos para mejorar tu rutina de belleza, actualizarte con las últimas tendencias tecnológicas o darle un toque fresco a tu hogar, estamos seguros de que
+      encontrarás algo que te encante. Nuestro compromiso es proporcionarte productos que cumplan con los más altos estándares de calidad y durabilidad. Cada artículo que
+      ofrecemos ha sido cuidadosamente seleccionado para garantizar que supere tus expectativas.</pre></p>
+   </article>
+
+   <article class="BOTONES">
+    <h2>CATEGORIAS</h2>
+      <button type="button" class="BOTON1"><img src="IMAGENES/BAR.png" ></button>
+      <button type="button" class="BOTON2"><img src="IMAGENES/COC.png" ></button>
+      <button type="button" class="BOTON3"><img src="IMAGENES/EST.png" ></button>
+      <button type="button" class="BOTON4"><img src="IMAGENES/REP.jpeg" ></button>
+      <button type="button" class="BOTON5"><img src="IMAGENES/GAB.jpeg" ></button>
+      <button type="button" class="BOTON6"><img src="IMAGENES/SILLA.jpeg" ></button>
+      <button type="button" class="BOTON7"><img src="IMAGENES/JUG.png"></button>
+      <button type="button" class="BOTON8"><img src="IMAGENES/TEC.jpeg"></button>
+      <button type="button" class="BOTON8"><img src="IMAGENES/HER.png"></button>
+      <button type="button" class="BOTON8"><img src="IMAGENES/CONTI.png"></button>
+      <br>
+      <h3>° ENVIOS CONTRAENTREGA A TODO COLOMBIA<br>
+         ° PAGO CONTRAENTREGA
+      </h3>
+   </article>
+
+   <hr>
+   <article> 
+    <h2 class="RDS">Siguenos En:</h2>
+
+      <ul class="NVREDES">
+       <li class="LI2"><a target="_blank" href="https://www.facebook.com/profile.php?id=100093552122444&mibextid=ZbWKwL"><svg xmlns="http://www.w3.org/2000/svg" height="2em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+       <style>svg{fill:#000000}</style><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg></i></a></li>
+       <li class="LI2"><a target="_blank" href="https://instagram.com/marvalss_shop?igshid=YTQwZjQ0NmI0OA=="><svg xmlns="http://www.w3.org/2000/svg" height="2em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+         <style>svg{fill:#000000}</style><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg></a></li>
+      </ul>
+   </article>
+
+   </section>
+
+      <footer>
+        
+       <button class="BOTONIN">
+        <a href="#Titulo_prin">IR AL INICIO</a>
+       </button><br>
+       
+       @Copyringht 2023
+
+      </footer>
+
+</body>
+</html>
