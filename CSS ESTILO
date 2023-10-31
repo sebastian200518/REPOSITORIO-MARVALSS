@@ -1,0 +1,141 @@
+body{
+    background-color: rgb(255, 255, 255);
+    
+}
+.ENCABEZADO1{
+    background-color: #1900fd;
+    margin-left: 9em;
+    margin-right: 9em;
+}
+
+hr{
+    color: #000000;
+}
+
+.NAVEGADOR {
+    list-style-type: none;
+    margin: 2px;
+    padding: 2px;
+    overflow: hidden;
+    background-color: #000000;
+    /*position: fixed;
+    margin: 0.0em;*/
+    
+}
+.LI1 {
+    float: left;
+}
+.LI1 a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 18px 44px;
+    text-decoration: none;
+
+}
+li a:hover:not(.INICIO1){
+    background-color: #00e1ffd3;
+}
+.INICIO1{
+
+    background-color: #1900fd;
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0.3em;
+    font-size: 26px;
+    font-family: cursive;
+}
+.PR1{  
+    text-align: initial;
+    color: rgb(255, 255, 255);
+    padding: 1em;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+.POR{
+    margin-left: 16em;
+    margin-right: 16em;
+}
+pre{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family: Arial;
+}
+.ENCABEZADO2{
+    margin-left: 9em;
+    margin-right: 9em;
+}
+h2{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: 16em;
+    margin-right: 16em;
+}
+
+.RDS{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    margin-right: 3em;
+    text-align: right;
+    font-family: 'Calibri, sans-serif'
+}
+
+.NVREDES{
+    list-style-type: none;
+    margin-right: 4em;
+    padding: 1px;
+    
+    
+}
+.LI2 {
+    float: right;
+}
+.LI2 a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+article > button > img{
+    margin: 0.4em;
+    width: 197px;
+    height: 366px;
+    box-shadow: 0px 0px 30px #000000;
+}
+.BOTONES{
+    margin-left: 9em;
+    margin-right: 9em;
+}
+button{
+    background-color: rgba(124, 13, 189, 0.884);
+    margin: 0.3em;
+}
+.BOTONIN{
+    background-color: rgba(0, 0, 0, 0.884);
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding: 0.8em;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+h3{
+    background-color: rgb(0, 0, 0);
+    margin: 4em;
+    padding: 3px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+footer{
+    color: rgb(0, 0, 0);
+    margin: 10PX;
+    text-align: center;
+}
